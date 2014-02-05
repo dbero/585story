@@ -14,11 +14,14 @@ One day Mr. Chi was balancing the daily variance of the city and noticed a HUGE 
 
 All at once, the world seemed upside down, the groud shaked violently and the citizens were tossed off out to Normalville, off Normal Mountain, and into the cold valley below. They watched, paralyzed in fear, as their once great mountain dissapeared into rubble. 
 
-```{r, fig.width = 4, fig.height = 4}
-y = runif(100)
-qplot(y,geom="Histogram")
-```
 
+
+
+
+
+Down in Cauchy Valley, the land of no mean or variance, the one great citizens of Normalville clung to survival through freezing winters and brutally hot summers. Without the normal curve, citzens no longer knew how to estimate the temperature and made very poor clothing choices. 
+
+One day, when Mr. Chi was walking around Cauchy Valley, he found a little boy crying. "Why are you crying?" asked Mr. Chi. The boy, in utter despair, responded, "because I cannot find out the probability that I will score between a 75 and a 95 on my upcoming exam!" These were serious times. 
 
 
 
