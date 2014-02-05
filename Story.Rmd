@@ -17,11 +17,6 @@ One day Mr. Chi was balancing the daily variance of the city and noticed a HUGE 
 
 All at once, the world seemed upside down, the groud shook violently and the citizens were tossed off out to Normalville, off Normal Mountain, and into the cold valley below. They watched, paralyzed in fear, as their once great mountain dissapeared into rubble. 
 
-
-
-
-
-
 Down in Cauchy Valley, the land of no mean or variance, the one great citizens of Normalville clung to survival through freezing winters and brutally hot summers. Without the normal curve, citzens no longer knew how to estimate the temperature and made very poor clothing choices. 
 
 One day, when Mr. Chi was walking around Cauchy Valley, he found a little boy crying. "Why are you crying?" asked Mr. Chi. The boy, in utter despair, responded, "because I cannot find out the probability that I will score between a 75 and a 95 on my upcoming exam!" These were serious times. 
@@ -31,7 +26,7 @@ The Abnormal people watched from afar as the Normans struggled to become accusto
 
 The fight began and the Normans were left utterly defenseless without their precious mean and variance assumption. They couldn't predict the Abnormals' movements, much less their heights, weights, and foot lengths. The outlook of the fight looked bleak and the Normans numbers were dwindling quickly. Their only hope lied in the brain one little girl named Deviation. She told the Normans of a dream she had the night before. A dream about "The Great Z Score," a diety who could save the Normans from the rather precarious situation they found themselves in. She spoke of the power of standardizing using means and variances and left the crowd of Normans speachless. This would be the key to their survival. 
 
-In the end, the rest of the story, as they say, writes itself. Today, you can find the people of Normalville sipping on kool aid, talking, and laughing. One would say they were generating moments once again. 
+The rest of the story, as they say, writes itself. Today, you can find the people of Normalville sipping on kool aid, talking, and laughing. One would say they were generating moments once again. 
 
 The end. 
 
