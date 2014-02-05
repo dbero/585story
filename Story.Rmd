@@ -14,6 +14,11 @@ One day Mr. Chi was balancing the daily variance of the city and noticed a HUGE 
 
 All at once, the world seemed upside down, the groud shaked violently and the citizens were tossed off out to Normalville, off Normal Mountain, and into the cold valley below. They watched, paralyzed in fear, as their once great mountain dissapeared into rubble. 
 
+```{r, fig.width = 4, fig.height = 4}
+y = runif(100)
+qplot(y,geom="Histogram")
+```
+
 
 
 
