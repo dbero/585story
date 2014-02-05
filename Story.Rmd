@@ -1,7 +1,23 @@
 Title
 ========================================================
 
+Once upon a time, the great city of Normalville thrived ontop of Normal Mountain. This mountain had special properties and all of the Normans, the name given to these people, were happy and worked together in peace. 
 
-Once upon a time, the great city of Normalville thrived ontop of Normal Mountain. This mountain had special properties and all of the Normans, the name given to these people, were happy and worked together in peace. One day Mr. Chi was balancing the daily variance of the city and noticed a HUGE problem. The variance was negative. 
+```{r}
+x = rnorm(1000)
+library(ggplot2)
+qplot(x, geom="Histogram")
+```
+
+
+One day Mr. Chi was balancing the daily variance of the city and noticed a HUGE problem. The variance was negative. 
 
 All at once, the world seemed upside down, the groud shaked violently and the citizens were tossed off out to Normalville, off Normal Mountain, and into the cold valley below. They watched, paralyzed in fear, as their once great mountain dissapeared into rubble. 
+
+
+
+
+
+
+
+
