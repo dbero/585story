@@ -1,17 +1,7 @@
 Title
 ========================================================
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring web pages (click the **Help** toolbar button for more details on using R Markdown).
 
-When you click the **Knit HTML** button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Once upon a time, the great city of Normalville thrived ontop of Normal Mountain. This mountain had special properties and all of the Normans, the name given to these people, were happy and worked together in peace. One day Mr. Chi was balancing the daily variance of the city and noticed a HUGE problem. The variance was negative. 
 
-```{r}
-summary(cars)
-```
-
-You can also embed plots, for example:
-
-```{r fig.width=7, fig.height=6}
-plot(cars)
-```
-
+All at once, the world seemed upside down, the groud shaked violently and the citizens were tossed off out to Normalville, off Normal Mountain, and into the cold valley below. They watched, paralyzed in fear, as their once great mountain dissapeared into rubble. 
